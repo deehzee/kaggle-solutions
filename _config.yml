@@ -23,4 +23,4 @@ kernel_gold: '<img style="padding-bottom:4px;" src="/kaggle-solutions/assets/ima
 kernel_silver: '<img style="padding-bottom:4px;" src="/kaggle-solutions/assets/images/kernel-silver.png" width="15px"/>'
 kernel_bronze: '<img style="padding-bottom:4px;" src="/kaggle-solutions/assets/images/kernel-bronze.png" width="15px"/>'
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
